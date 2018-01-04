@@ -1,0 +1,24 @@
+9 10 4
+tadmens grotadmens
+raminidraco sadrelosse
+picheur pikacheur
+assistali maudouli
+pikacheur raicharles
+dervali assistali
+sadrelosse sadreco
+dechenli dervali
+obo orbok
+orbok 10
+sadrelosse 1
+tadmens 99
+raminidraco 22
+dervali 3
+picheur 124
+raicharles 3
+assistali 34
+grotadmens 10
+tadmens 10
+tadmens
+assistali
+raicharles
+sadrelosse

@@ -1,0 +1,14 @@
+2 6 5
+taupecheur triopecheur
+grotadmens tadmens
+triopecheur 4
+taupecheur 10
+grotadmens 3
+tadmens 8
+triopecheur 2
+sadrebrute 1
+triopecheur
+taupecheur
+tadmens
+sadrebrute
+raminidraco
