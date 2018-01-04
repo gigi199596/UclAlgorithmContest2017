@@ -1,0 +1,9 @@
+7
+petite
+longue
+courte
+une
+incohérente
+phrase
+suite
+unepetitephrase
